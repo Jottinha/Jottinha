@@ -1,4 +1,4 @@
-### I'm João Vitor 👋
+### Hi there, i'm João Vitor 👋
 LOADING...
 
 <div>
