@@ -16,8 +16,8 @@ LOADING...
 
 ##
 <div>
-	<img aling="center" alt="joao-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	<img aling="center" alt="joao-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	<a href="https://linkedin.com/in/joão-vitor-ferreira-0744a8205"><img aling="center" alt="joao-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="mailto:joaovitorfps852@gmail.com"><img aling="center" alt="joao-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/Jottinha/Jottinha/blob/output/github-contribution-grid-snake.svg)
