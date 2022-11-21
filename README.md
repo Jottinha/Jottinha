@@ -2,7 +2,7 @@
 LOADING...
 
 <div>
-	<img src = "https://github-readme-stats.vercel.app/api?username=Jottinha&theme=highcontrast&show_icons=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Jottinha&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
