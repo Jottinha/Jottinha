@@ -1,6 +1,6 @@
 ### Hey, I'm João Vitor 👋
 
-Software developer passionate about development, problem solving and continuously expanding my knowledge in Java, JavaScript, Css, Html and SQL. I enjoy creating user-friendly and efficient applications by exploring new technologies and frameworks. I aim to provide high quality code and collaborate with teams to create innovative solutions.
+Software developer passionate about development and problem solving. Continuously expanding my knowledge in Back-End and venturing a little in Front-end. I enjoy create user-friendly and efficient applications by exploring new technologies and frameworks. I aim to provide high quality code and collaborate with teams to create innovative solutions.
 
 ### Find me in 🌎
 <div>
